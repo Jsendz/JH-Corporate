@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "residency": "Résidence",
+    "company": "Création d’entreprise",
+    "concierge": "Conciergerie",
+    "pricing": "Tarifs",
+    "resources": "Ressources",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": {
+    "freeConsult": "Consultation gratuite",
+    "eligibilityCheck": "Vérifier l’éligibilité",
+    "learnResidency": "En savoir plus sur la résidence",
+    "seeProof": "Voir des résultats clients",
+    "bookAdvisors": "Réserver avec un conseiller",
+    "compareResidency": "Comparer les types de résidence",
+    "planIncorporation": "Planifier votre incorporation",
+    "seeConcierge": "Voir les options de conciergerie",
+    "requestQuote": "Demander un devis",
+    "downloadChecklist": "Télécharger la checklist",
+    "bookCall": "Réserver un appel"
+  },
+  "home": {
+    "heroHeadline": "Construisez votre avenir en Andorre",
+    "heroSub": "Démarches de résidence, création d’entreprise et conformité continue—simplifiées pour entrepreneurs, familles et investisseurs.",
+    "pillarsTitle": "Pourquoi nous choisir",
+    "pillar1": "Experts locaux, standards internationaux",
+    "pillar2": "Tarifs fixes et transparents",
+    "pillar3": "Service de bout en bout : visas, banque et plus",
+    "servicesTitle": "Ce que nous faisons",
+    "servicesResidency": "Programmes de Résidence",
+    "servicesCompany": "Création d’Entreprise",
+    "servicesConcierge": "Conciergerie de Relocalisation",
+    "proofTitle": "Recommandés par fondateurs, familles et fonds",
+    "blogTeaserTitle": "Derniers éclairages sur la résidence et les affaires en Andorre"
+  },
+  "about": {
+    "heroHeadline": "Experts locaux. Vision globale. 100% transparence.",
+    "storyTitle": "Notre Histoire",
+    "storyBody": "Nous aidons des clients internationaux à s’installer, investir et entreprendre en Andorre. Notre équipe allie juridique, fiscalité et corporate pour transformer des démarches complexes en étapes claires et prévisibles.",
+    "teamTitle": "Équipe & Références",
+    "whyTitle": "Pourquoi l’Andorre ?",
+    "whyBody": "Fiscalité avantageuse, stabilité et qualité de vie. Avec un impôt sur le revenu plafonné à 10% et une TVA à 4,5%, l’Andorre est une base stratégique pour entrepreneurs et familles."
+  },
+  "services": {
+    "residency": {
+      "heroHeadline": "Résidence en Andorre—Active ou Passive, en toute simplicité.",
+      "intro": "Entrepreneurs, investisseurs ou familles : nous gérons le processus de l’éligibilité à l’approbation.",
+      "typesTitle": "Types de Résidence",
+      "activeTitle": "Résidence Active",
+      "activeDesc": "Pour entrepreneurs et professionnels exploitant une activité en Andorre. Nécessite une société locale et 183 jours/an de présence.",
+      "passiveTitle": "Résidence Passive",
+      "passiveDesc": "Pour investisseurs et personnes financièrement indépendantes. Voie d’investissement populaire dès 600 000 €, présence physique limitée.",
+      "specialTitle": "Voies Spéciales",
+      "specialDesc": "Options adaptées pour sportifs, artistes, retraités et dirigeants à distance."
+    },
+    "company": {
+      "heroHeadline": "Création d’Entreprise en Andorre—Incorporez en toute confiance.",
+      "valueProp": "Nous rédigeons statuts, obtenons les autorisations, ouvrons les comptes et immatriculons votre société—rapidement et en conformité.",
+      "companyTypesTitle": "Types de Sociétés",
+      "slTitle": "Société à Responsabilité Limitée (SL)",
+      "slDesc": "Le véhicule privilégié des fondateurs et PME. Propriété étrangère à 100% autorisée.",
+      "branchTitle": "Succursale",
+      "branchDesc": "Étendre une société étrangère existante en Andorre.",
+      "holdingTitle": "Structures Holding",
+      "holdingDesc": "Véhicules efficaces pour gérer des actifs internationaux dans un cadre conforme.",
+      "processTitle": "Comment ça marche",
+      "processSteps": [
+        "Pré-approbation du nom",
+        "Plan d’affaires et autorisation d’investissement étranger",
+        "Ouverture de compte & dépôt de capital (à partir de 3 000 €)",
+        "Constitution chez le notaire",
+        "Registre du commerce & immatriculation fiscale",
+        "Demandes de résidence (si nécessaire)"
+      ]
+    },
+    "concierge": {
+      "heroHeadline": "Conciergerie de Relocalisation—L’administratif, réglé.",
+      "valueProp": "Tout ce dont vous avez besoin après l’approbation : services, logement, écoles, santé, etc.",
+      "sectionsTitle": "Services de Conciergerie",
+      "setupsTitle": "Mises en service & Services publics",
+      "setupsDesc": "Numéros NIE/NRT, sécurité sociale, électricité, internet, téléphonie, assurances.",
+      "housingTitle": "Logement & Immobilier",
+      "housingDesc": "Recherche de biens, négociation de location et due diligence d’achat avec des partenaires de confiance.",
+      "schoolsTitle": "Écoles & Intégration Familiale",
+      "schoolsDesc": "Conseils sur écoles publiques/privées, choix de cursus et accompagnement à l’inscription."
+    }
+  },
+  "pricing": {
+    "heroHeadline": "Forfaits transparents. Aucun frais caché.",
+    "trustBox": "Honoraires fixes, délais écrits et livrables clairs à chaque étape.",
+    "includesTitle": "Ce qui est inclus",
+    "includes": [
+      "Chargé de dossier dédié",
+      "Préparation et dépôt des dossiers de résidence",
+      "Statuts et coordination notariale",
+      "Accompagnement bancaire et traductions",
+      "Options de conciergerie (logement, écoles, services)"
+    ],
+    "tablesTitle": "Forfaits",
+    "residencyPkg": "Forfait Résidence — dès 3 500 €",
+    "companyPkg": "Forfait Création d’Entreprise — dès 5 000 €",
+    "conciergePkg": "Forfait Conciergerie — devis sur mesure"
+  },
+  "resources": {
+    "heroHeadline": "Ressources & Guides",
+    "guidesTitle": "Guides",
+    "guidesList": [
+      "Résidence en Andorre : Active vs Passive (2025)",
+      "Créer une SL en Andorre — Étapes détaillées",
+      "Banque en Andorre : à savoir pour les fondateurs",
+      "S’installer en famille : écoles & santé"
+    ],
+    "caseStudiesTitle": "Études de cas",
+    "blogIntro": "Éclairages sur la résidence, la création d’entreprise et la vie en Andorre.",
+    "checklist": "Checklist Résidence & Incorporation (PDF)",
+    "homeHero": "Planifiez votre installation avec clarté et confiance",
+    "servicesTitle": "Ce que nous faisons",
+    "servicesResidency": "Programmes de Résidence",
+    "servicesCompany": "Création d’Entreprise",
+    "servicesConcierge": "Conciergerie de Relocalisation"
+  },
+  "contact": {
+    "heroHeadline": "Commençons votre projet en Andorre.",
+    "formTitle": "Parlez-nous de vos plans",
+    "step1": "Qu’est-ce qui vous intéresse ?",
+    "step1Options": ["Résidence", "Création d’entreprise", "Les deux"],
+    "step2": "Quel est votre calendrier ?",
+    "step2Options": ["Urgent", "3–6 mois", "Plus de 6 mois"],
+    "step3": "Comment pouvons-nous vous joindre ?",
+    "officeTitle": "Notre Bureau",
+    "bookTitle": "Réserver une consultation"
+  },
+  "seo": {
+    "home": "Résidence & Création d’Entreprise en Andorre | Agence",
+    "about": "À propos — Agence de résidence et d’incorporation en Andorre",
+    "residency": "Résidence en Andorre : Programmes Actif & Passif",
+    "company": "Création d’Entreprise en Andorre : SL, Succursale, Holdings",
+    "concierge": "Conciergerie & Intégration en Andorre",
+    "pricing": "Tarifs pour Résidence & Création d’Entreprise en Andorre",
+    "resources": "Guides & Ressources sur la résidence et les affaires en Andorre",
+    "contact": "Contact—Résidence & Création d’Entreprise en Andorre"
+  }
+}

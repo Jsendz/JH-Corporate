@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Inici",
+    "about": "Nosaltres",
+    "services": "Serveis",
+    "residency": "Residència",
+    "company": "Constitució d’empresa",
+    "concierge": "Concierge",
+    "pricing": "Preus",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "contact": "Contacte"
+  },
+  "cta": {
+    "freeConsult": "Consulta gratuïta",
+    "eligibilityCheck": "Comprovar elegibilitat",
+    "learnResidency": "Saber-ne més sobre residència",
+    "seeProof": "Veure casos reals",
+    "bookAdvisors": "Reserva amb un assessor",
+    "compareResidency": "Comparar tipus de residència",
+    "planIncorporation": "Planifica la teva incorporació",
+    "seeConcierge": "Veure opcions de concierge",
+    "requestQuote": "Sol·licita pressupost",
+    "downloadChecklist": "Descarregar checklist",
+    "bookCall": "Reservar trucada"
+  },
+  "home": {
+    "heroHeadline": "Comença el teu futur a Andorra",
+    "heroSub": "Tràmits de residència, creació d’empreses i compliment continu—simplificat per a emprenedors, famílies i inversors.",
+    "pillarsTitle": "Per què nosaltres",
+    "pillar1": "Experts locals amb estàndards globals",
+    "pillar2": "Preus tancats i transparents",
+    "pillar3": "Servei integral: visats, banca i més",
+    "servicesTitle": "Què fem",
+    "servicesResidency": "Programes de Residència",
+    "servicesCompany": "Constitució d’Empreses",
+    "servicesConcierge": "Concierge de Reubicació",
+    "proofTitle": "De confiança per a fundadors, famílies i fons",
+    "blogTeaserTitle": "Últims continguts sobre residència i negocis a Andorra"
+  },
+  "about": {
+    "heroHeadline": "Experts locals. Visió global. 100% transparència.",
+    "storyTitle": "La nostra història",
+    "storyBody": "Ajudem clients internacionals a reubicar-se, invertir i créixer a Andorra. El nostre equip combina coneixement legal, fiscal i corporatiu per convertir tràmits complexos en passos clars i previsibles.",
+    "teamTitle": "Equip i Credencials",
+    "whyTitle": "Per què Andorra?",
+    "whyBody": "Baixa fiscalitat, estabilitat i qualitat de vida excel·lent. Amb un IRPF màxim del 10% i un IGI del 4,5%, Andorra és una base estratègica per a emprenedors i famílies."
+  },
+  "services": {
+    "residency": {
+      "heroHeadline": "Residència a Andorra—Activa o Passiva, sense complicacions.",
+      "intro": "Siguis emprenedor, inversor o família, gestionem el procés des de l’elegibilitat fins a l’aprovació.",
+      "typesTitle": "Tipus de Residència",
+      "activeTitle": "Residència Activa",
+      "activeDesc": "Per a emprenedors i professionals que operen un negoci a Andorra. Requereix empresa local i estada mínima de 183 dies/any.",
+      "passiveTitle": "Residència Passiva",
+      "passiveDesc": "Per a inversors i persones amb independència financera. Via d’inversió popular des de 600.000 € amb presència física limitada.",
+      "specialTitle": "Vies Especials",
+      "specialDesc": "Opcions a mida per a esportistes, artistes, jubilats i directius remots."
+    },
+    "company": {
+      "heroHeadline": "Constitució d’Empreses a Andorra—Incorpora amb confiança.",
+      "valueProp": "Redactem estatuts, tramitem autoritzacions, obrim comptes i registrem la teva empresa—ràpid i conforme a normativa.",
+      "companyTypesTitle": "Tipus de Societat",
+      "slTitle": "Societat Limitada (SL)",
+      "slDesc": "El vehicle preferit per fundadors i pimes. Permesa la propietat estrangera al 100%.",
+      "branchTitle": "Sucursal",
+      "branchDesc": "Estén una empresa estrangera existent a Andorra.",
+      "holdingTitle": "Estructures Holding",
+      "holdingDesc": "Vehicles eficients per gestionar actius internacionals dins de marcs complidors.",
+      "processTitle": "Com Funciona",
+      "processSteps": [
+        "Preaprovació del nom",
+        "Pla de negoci i autorització d’inversió estrangera",
+        "Obertura de compte i dipòsit de capital (des de 3.000 €)",
+        "Constitució davant notari",
+        "Registre de comerç i alta fiscal",
+        "Sol·licituds de residència (si s’escau)"
+      ]
+    },
+    "concierge": {
+      "heroHeadline": "Concierge de Reubicació—El paperam, resolt.",
+      "valueProp": "Tot el que necessites després de l’aprovació: subministraments, habitatge, escoles, salut i més.",
+      "sectionsTitle": "Serveis de Concierge",
+      "setupsTitle": "Altes i Subministraments",
+      "setupsDesc": "NIE/NRT, seguretat social, electricitat, internet, telefonia, assegurances.",
+      "housingTitle": "Habitatge i Immobiliària",
+      "housingDesc": "Cerca de propietats, negociació de lloguers i due diligence de compra amb partners de confiança.",
+      "schoolsTitle": "Escoles i Integració Familiar",
+      "schoolsDesc": "Orientació sobre escoles públiques/privades, tria de currículum i suport a la matrícula."
+    }
+  },
+  "pricing": {
+    "heroHeadline": "Paquets transparents. Sense costos ocults.",
+    "trustBox": "Honoraris tancats, terminis per escrit i lliurables clars a cada etapa.",
+    "includesTitle": "Què inclou",
+    "includes": [
+      "Gestor de cas dedicat",
+      "Preparació i presentació d’expedients de residència",
+      "Estatuts i coordinació notarial",
+      "Suport bancari i traduccions",
+      "Add-ons de concierge (habitatge, escoles, subministraments)"
+    ],
+    "tablesTitle": "Paquets",
+    "residencyPkg": "Paquet de Residència — des de 3.500 €",
+    "companyPkg": "Paquet de Constitució — des de 5.000 €",
+    "conciergePkg": "Paquet de Concierge — pressupost a mida"
+  },
+  "resources": {
+    "heroHeadline": "Recursos i Guies",
+    "guidesTitle": "Guies",
+    "guidesList": [
+      "Residència a Andorra: Activa vs Passiva (2025)",
+      "Com constituir una SL a Andorra — Pas a pas",
+      "Banca a Andorra: què ha de saber un fundador",
+      "Reubicació en família: escoles i salut"
+    ],
+    "caseStudiesTitle": "Casos d’Èxit",
+    "blogIntro": "Idees sobre residència, constitució i vida a Andorra.",
+    "checklist": "Checklist de Residència i Incorporació (PDF)",
+    "homeHero": "Planifica la teva mudança amb claredat i confiança",
+    "servicesTitle": "Què fem",
+    "servicesResidency": "Programes de Residència",
+    "servicesCompany": "Constitució d’Empreses",
+    "servicesConcierge": "Concierge de Reubicació"
+  },
+  "contact": {
+    "heroHeadline": "Comencem el teu camí cap a Andorra.",
+    "formTitle": "Explica’ns els teus plans",
+    "step1": "Què t’interessa?",
+    "step1Options": ["Residència", "Constitució d’empresa", "Totes dues"],
+    "step2": "Quin és el teu termini?",
+    "step2Options": ["Urgent", "3–6 mesos", "Més de 6 mesos"],
+    "step3": "Com et podem contactar?",
+    "officeTitle": "La nostra Oficina",
+    "bookTitle": "Reservar una consulta"
+  },
+  "seo": {
+    "home": "Residència i Constitució d’Empreses a Andorra | Agència",
+    "about": "Sobre la nostra agència de residència i incorporació a Andorra",
+    "residency": "Residència a Andorra: Programes Actiu i Passiu",
+    "company": "Constitució d’Empreses a Andorra: SL, Sucursal, Holdings",
+    "concierge": "Concierge i Integració a Andorra",
+    "pricing": "Preus de residència i constitució a Andorra",
+    "resources": "Guies i Recursos sobre residència i negocis a Andorra",
+    "contact": "Contacte—Residència i Constitució a Andorra"
+  }
+}

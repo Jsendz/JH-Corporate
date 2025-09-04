@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "residency": "Residency",
+    "company": "Company Formation",
+    "concierge": "Concierge",
+    "pricing": "Pricing",
+    "resources": "Resources",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": {
+    "freeConsult": "Free consultation",
+    "eligibilityCheck": "Check eligibility",
+    "learnResidency": "Learn about residency",
+    "seeProof": "See client results",
+    "bookAdvisors": "Book with an advisor",
+    "compareResidency": "Compare residency types",
+    "planIncorporation": "Plan your incorporation",
+    "seeConcierge": "See concierge options",
+    "requestQuote": "Request a quote",
+    "downloadChecklist": "Download checklist",
+    "bookCall": "Contact Us"
+  },
+  "home": {
+    "heroHeadline": "Start Your Future in Andorra",
+    "heroSub": "Residency paperwork, company creation, and ongoing compliance—simplified for entrepreneurs, families, and investors.",
+    "pillarsTitle": "Why Work With Us",
+    "pillar1": "Local experts with global standards",
+    "pillar2": "Flat, transparent pricing",
+    "pillar3": "End-to-end service: from visas to banking",
+    "servicesTitle": "What We Do",
+    "servicesResidency": "Residency Programs",
+    "servicesCompany": "Company Formation",
+    "servicesConcierge": "Concierge Relocation",
+    "proofTitle": "Trusted by founders, families, and funds",
+    "blogTeaserTitle": "Latest insights on Andorra residency & business"
+  },
+  "about": {
+    "heroHeadline": "Local Experts. Global Perspective. 100% Transparency.",
+    "storyTitle": "Our Story",
+    "storyBody": "We help international clients relocate, invest, and build in Andorra. Our team blends legal, tax, and corporate know-how to turn complex procedures into clear, predictable steps.",
+    "teamTitle": "Team & Credentials",
+    "whyTitle": "Why Choose Andorra?",
+    "whyBody": "Low taxes, stable economy, and exceptional quality of life. From a 10% cap on income tax to 4.5% VAT, Andorra is a strategic base for entrepreneurs and families seeking efficiency and safety."
+  },
+  "services": {
+    "residency": {
+      "heroHeadline": "Residency in Andorra—Active or Passive, Made Simple.",
+      "intro": "Whether you’re an entrepreneur, investor, or relocating family, we manage the process from eligibility to approval.",
+      "typesTitle": "Residency Types",
+      "activeTitle": "Active Residency",
+      "activeDesc": "For entrepreneurs and professionals operating a business in Andorra. Requires local company and a minimum stay of 183 days/year.",
+      "passiveTitle": "Passive Residency",
+      "passiveDesc": "For investors and financially independent individuals. Popular investment track from €600,000 with limited physical presence.",
+      "specialTitle": "Special Tracks",
+      "specialDesc": "Tailored options for athletes, artists, retirees, and remote executives."
+    },
+    "company": {
+      "heroHeadline": "Company Formation in Andorra—Incorporate with Confidence.",
+      "valueProp": "We draft statutes, obtain authorizations, open bank accounts, and register your company—fast and compliant.",
+      "companyTypesTitle": "Company Types",
+      "slTitle": "SL Company (Societat Limitada)",
+      "slDesc": "The preferred vehicle for founders and SMEs. 100% foreign ownership allowed.",
+      "branchTitle": "Branch Office",
+      "branchDesc": "Extend an existing foreign company into Andorra.",
+      "holdingTitle": "Holding Structures",
+      "holdingDesc": "Efficient vehicles to manage international assets within compliant frameworks.",
+      "processTitle": "How It Works",
+      "processSteps": [
+        "Name pre-approval",
+        "Business plan and foreign investment authorization",
+        "Bank account opening & share capital deposit (from €3,000)",
+        "Notary incorporation",
+        "Trade registry & tax registration",
+        "Residency applications (if required)"
+      ]
+    },
+    "concierge": {
+      "heroHeadline": "Concierge Relocation—Life Admin, Solved.",
+      "valueProp": "Everything you need after approval: utilities, housing, schools, health, and more.",
+      "sectionsTitle": "Concierge Services",
+      "setupsTitle": "Setups & Utilities",
+      "setupsDesc": "NIE/NRT numbers, social security, electricity, internet, phone, insurance.",
+      "housingTitle": "Housing & Real Estate",
+      "housingDesc": "Property search, rental negotiations, and purchase due diligence with trusted partners.",
+      "schoolsTitle": "Schools & Family Integration",
+      "schoolsDesc": "Guidance on public/private schools, curriculum choices, and enrollment support."
+    }
+  },
+  "pricing": {
+    "heroHeadline": "Transparent Packages. No Hidden Fees.",
+    "trustBox": "Flat fees, written timelines, and clear deliverables at every step.",
+    "includesTitle": "What’s Included",
+    "includes": [
+      "Dedicated case manager",
+      "Residency paperwork preparation & filing",
+      "Company statutes & notary coordination",
+      "Banking support and translations",
+      "Concierge add-ons (housing, schooling, utilities)"
+    ],
+    "tablesTitle": "Packages",
+    "residencyPkg": "Residency Package — from €3,500",
+    "companyPkg": "Company Formation Package — from €5,000",
+    "conciergePkg": "Concierge Bundle — custom quote"
+  },
+  "resources": {
+    "heroHeadline": "Resources & Guides",
+    "guidesTitle": "Guides",
+    "guidesList": [
+      "Residency in Andorra: Active vs Passive (2025)",
+      "How to Incorporate an SL in Andorra — Step-by-Step",
+      "Banking in Andorra: What Founders Should Know",
+      "Relocating with Family: Schools & Healthcare"
+    ],
+    "caseStudiesTitle": "Case Studies",
+    "blogIntro": "Insights on residency, company formation, and life in Andorra.",
+    "checklist": "Residency & Incorporation Checklist (PDF)",
+    "homeHero": "Plan your move with clarity and confidence",
+    "servicesTitle": "What We Do",
+    "servicesResidency": "Residency Programs",
+    "servicesCompany": "Company Formation",
+    "servicesConcierge": "Concierge Relocation"
+  },
+  "contact": {
+    "heroHeadline": "Let’s Start Your Journey to Andorra.",
+    "formTitle": "Tell us about your plans",
+    "step1": "What are you interested in?",
+    "step1Options": ["Residency", "Company Formation", "Both"],
+    "step2": "What’s your timeline?",
+    "step2Options": ["Urgent", "3–6 months", "More than 6 months"],
+    "step3": "How can we reach you?",
+    "officeTitle": "Our Office",
+    "bookTitle": "Book a Consultation"
+  },
+  "seo": {
+    "home": "Andorra Residency & Company Formation | Relocation Agency",
+    "about": "About Our Andorra Residency & Incorporation Agency",
+    "residency": "Residency in Andorra: Active & Passive Programs",
+    "company": "Company Formation in Andorra: SL, Branch, Holdings",
+    "concierge": "Concierge Relocation in Andorra",
+    "pricing": "Pricing for Residency & Company Formation in Andorra",
+    "resources": "Guides & Resources on Andorra Residency and Business",
+    "contact": "Contact—Residency & Company Formation in Andorra"
+  }
+}
