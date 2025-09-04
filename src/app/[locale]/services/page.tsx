@@ -32,7 +32,7 @@ export default async function ServicesPage({params}: ServicesPageProps) {
     <>
       <Hero lang={locale} />
       <ServiceGridComponent  />
-      <CTASection lang={locale} />
+      <CTASection  />
     </>
   );
 }

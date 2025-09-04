@@ -52,7 +52,7 @@ export default async function RootLayout({
         <NextIntlClientProvider locale={locale} >
         <Navigation lang={locale} />
         <main className="min-h-screen">{children}</main>
-        <StickyCTA lang={locale} />
+        <StickyCTA  />
         <Footer lang={locale} />
         </NextIntlClientProvider>
       </body>

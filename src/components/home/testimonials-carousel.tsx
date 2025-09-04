@@ -59,7 +59,7 @@ export function TestimonialsCarousel({ lang }: TestimonialsCarouselProps) {
               ))}
             </div>
             <p className="text-lg text-gray-700 mb-6 italic">
-              "{testimonials[currentIndex].content}"
+              &ldquo;{testimonials[currentIndex].content}&rdquo;
             </p>
             <div>
               <h4 className="font-semibold text-gray-900">{testimonials[currentIndex].name}</h4>

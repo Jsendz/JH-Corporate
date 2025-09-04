@@ -107,7 +107,7 @@ export function PricingTiers({ lang }: PricingTiersProps) {
 
         <div className="text-center mt-12">
           <p className="text-gray-600 mb-4">
-            Need a custom solution? Let's discuss your specific requirements.
+            Need a custom solution? Let&apos;s discuss your specific requirements.
           </p>
           <Link
             href={`/${lang}/contact`}

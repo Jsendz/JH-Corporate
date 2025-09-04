@@ -35,7 +35,7 @@ export default async function CompanyFormationPage({params}: CompanyFormationPag
       <CompanyTypes lang={locale} />
       <ProcessTimeline />
       <LegalSupport lang={locale} />
-      <CTASection lang={locale} />
+      <CTASection  />
     </>
   );
 }

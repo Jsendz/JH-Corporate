@@ -2,6 +2,8 @@
 
 import React from 'react';
 import { ArrowRight, Users, FileText, Building2, Shield, Clock, Award } from 'lucide-react';
+import Image from 'next/image';
+
 
 interface TimelineStep {
   id: number;
@@ -94,7 +96,7 @@ export default function ProcessTimeline() {
                       {/* Image Left */}
                       <div className="relative">
                         <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
-                          <img
+                          <Image
                             src={step.imageUrl}
                             alt={step.title}
                             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
@@ -157,7 +159,7 @@ export default function ProcessTimeline() {
                       {/* Image Right */}
                       <div className="relative">
                         <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
-                          <img
+                          <Image
                             src={step.imageUrl}
                             alt={step.title}
                             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
@@ -172,7 +174,7 @@ export default function ProcessTimeline() {
                 <div className="lg:hidden">
                   <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
                     <div className="aspect-[16/10] overflow-hidden">
-                      <img
+                      <Image
                         src={step.imageUrl}
                         alt={step.title}
                         className="w-full h-full object-cover"

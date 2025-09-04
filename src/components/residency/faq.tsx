@@ -3,11 +3,9 @@
 import { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
-interface FAQProps {
-  lang: string
-}
 
-export function FAQ({ lang }: FAQProps) {
+
+export function FAQ() {
   const [openIndex, setOpenIndex] = useState<number | null>(0)
 
   const faqs = [

@@ -1,10 +1,8 @@
 import { FileText, CheckCircle, Home, UserCheck } from 'lucide-react'
 
-interface StepByStepProcessProps {
-  lang: string
-}
 
-export function StepByStepProcess({ lang }: StepByStepProcessProps) {
+
+export function StepByStepProcess() {
   const steps = [
     {
       icon: FileText,

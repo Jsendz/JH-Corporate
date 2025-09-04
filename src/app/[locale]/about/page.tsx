@@ -35,7 +35,7 @@ export default async function AboutPage({params}: AboutPageProps) {
       <Mission  />
       <ProcessTimeline lang={locale} />
       <TestimonialsCarousel lang={locale} />
-      <CTASection lang={locale} />
+      <CTASection  />
     </>
   );
 }

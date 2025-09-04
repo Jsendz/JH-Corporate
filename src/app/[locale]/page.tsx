@@ -1,4 +1,4 @@
-import {Hero} from '@/src/components/home/hero';
+
 import {WhyAndorra} from '@/src/components/home/why-andorra';
 
 import {TestimonialsCarousel} from '@/src/components/home/testimonials-carousel';
@@ -42,7 +42,7 @@ return (
 <WhyAndorra lang={locale} />
 <ServicesSnapshot  />
 <TestimonialsCarousel lang={locale} />
-<CTASection lang={locale} />
+<CTASection />
 </>
 );
 }

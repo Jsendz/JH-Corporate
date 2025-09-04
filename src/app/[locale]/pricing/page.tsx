@@ -30,7 +30,7 @@ export default async function PricingPage({params}: PricingPageProps) {
     <>
       <Hero lang={locale} />
       <PricingTiers lang={locale} />
-      <CTASection lang={locale} />
+      <CTASection  />
     </>
   );
 }

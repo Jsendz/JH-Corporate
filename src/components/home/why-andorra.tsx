@@ -36,7 +36,7 @@ export function WhyAndorra({ lang }: WhyAndorraProps) {
             Why Choose Andorra?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Discover the advantages of living and doing business in one of Europe's most attractive jurisdictions
+            Discover the advantages of living and doing business in one of Europe&apos;s most attractive jurisdictions
           </p>
         </div>
 
